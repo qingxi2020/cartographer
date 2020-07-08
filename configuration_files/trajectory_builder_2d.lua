@@ -11,7 +11,7 @@
 -- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 -- See the License for the specific language governing permissions and
 -- limitations under the License.
-
+-- test git cartographer_ros的默认配置文件在cartographer
 TRAJECTORY_BUILDER_2D = {
   use_imu_data = true,
   min_range = 0.,
